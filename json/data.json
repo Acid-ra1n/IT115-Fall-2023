@@ -1,11 +1,12 @@
 {
     "name": "John Doe",
-    "age": 30,
+    "age": 34,
     "city": "New York, NY",
     "interests": [
         "sleep",
         "green",
-        "food"
+        "food",
+        "nature"
     ],
     "is_student": true
 }
